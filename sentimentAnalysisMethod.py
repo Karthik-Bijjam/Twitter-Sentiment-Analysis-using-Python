@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Feb 15 21:45:24 2019
-
-@author: S533488
 """
 
 
